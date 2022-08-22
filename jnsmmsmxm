@@ -30,7 +30,7 @@ end
                             local DaHoodSettings = {
                                 SilentAim = true,
                                 AimLock = false, -- Change false to ture for aimlock
-                                Prediction = 0.17, --Change if you want to be more legit
+                                Prediction = 1.00, --Change if you want to be more legit
                                 AimLockKeybind = Enum.KeyCode.E --Aimlock Key              --This cant be obf so good luck obf it !
                             }
                             getgenv().DaHoodSettings = DaHoodSettings
